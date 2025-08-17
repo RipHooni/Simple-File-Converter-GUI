@@ -4,7 +4,7 @@ Incredibly Simple GUI image converter.
 
 ## Installation
 
-###   Option 1
+####   Option 1
 
 Clone repository and run via cl
 ```bash
@@ -12,7 +12,7 @@ Clone repository and run via cl
   python FileConverter.py
 ```
 
-###   Option 2
+####   Option 2
 
 Download the .exe and run.
     
