@@ -1,7 +1,6 @@
 # Image Converter
 
-A brief description of what this project does and who it's for
-
+Incredibly Simple GUI image converter.
 
 ## Installation
 
