@@ -23,7 +23,7 @@ python fileManip.py
 
 Download the .exe and run :D
     
-## Usage
+# Usage
 
 ## Image Conversions Tab
 Use the Browse button to search for file\
