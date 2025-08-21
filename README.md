@@ -6,15 +6,22 @@ Incredibly Simple GUI file/image manipulator
 
 ####   Option 1
 
-Clone repository and run via cl
+Clone repository
 ```bash
   git clone <repo-link>
-  python FileConverter.py
+```
+Install Requirements
+```bash
+  pip install -r requirements.txt
+```
+Run :D
+```bash
+  python fileManip.py
 ```
 
 ####   Option 2
 
-Just download the .exe and run.
+ Download the .exe and run :D
     
 ## Usage
 
