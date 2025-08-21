@@ -1,6 +1,6 @@
-# Image Converter
+# File Manipulator
 
-Incredibly Simple GUI image converter
+Incredibly Simple GUI file/image manipulator
 
 ## Installation
 
@@ -14,11 +14,18 @@ Clone repository and run via cl
 
 ####   Option 2
 
-Download the .exe and run.
+Just download the .exe and run.
     
 ## Usage
 
-Use the Browse button to search for file.
-Once file your is selected, press any of the "Convert to ..." buttons
-Converted file will download to the directory of the original file
+### Image Conversions Tab
+Use the Browse button to search for file
+Once your file is selected, press any of the "Convert to ..." buttons
+The converted file will be downloaded to the original file's directory
+
+### PDF Merger Tab
+Use the Browse button to search for files
+Once your files are selected, press press the "Merge PDFS" button
+Merged file will be saved as "combined.pdf" in the original directory.
+File at the bottom of the list will be page 1, file listed above will be page 2, etc...
 
