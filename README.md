@@ -8,20 +8,20 @@ Incredibly Simple GUI file/image manipulator
 
 Clone repository
 ```bash
-  git clone <repo-link>
+git clone <repo-link>
 ```
 Install Requirements
 ```bash
-  pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 Run :D
 ```bash
-  python fileManip.py
+python fileManip.py
 ```
 
 ####   Option 2
 
- Download the .exe and run :D
+Download the .exe and run :D
     
 ## Usage
 
@@ -29,7 +29,7 @@ Run :D
 Use the Browse button to search for file
 Once your file is selected, press any of the "Convert to ..." buttons
 The converted file will be downloaded to the original file's directory
-##### When converting PDFs into non-PDF format all pages will be saved as page_1, page_2, etc...
+When converting PDFs into non-PDF format all pages will be saved as page_1, page_2, etc...
 
 ### PDF Merger Tab
 Use the Browse button to search for files
